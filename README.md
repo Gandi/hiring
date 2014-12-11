@@ -6,7 +6,7 @@ We're actively seeking people for the following positions:
 
 #### [Hosting Customer Support Specialist](en/hosting-support-specialist.md) | French version forthcoming
 
-#### Front end web developer | [Développeur(se) Front Extraordinaire](fr/dev-front-extra.md)
+#### [Front end web developer](en/frontend-dev.md) | [Développeur(se) Front Extraordinaire](fr/dev-front-extra.md)
 
 #### QA Engineer | Ingénieur QA tous azimuts
 
