@@ -1,6 +1,6 @@
 # Développeur(se) Front Extraordinaire
 
-## Responsibilities
+## Le poste
 
 * Développement et maintenance de notre site.
 * Participation active aux projets, à la définition des choix technologiques.
