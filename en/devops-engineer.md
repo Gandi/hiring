@@ -2,7 +2,7 @@
 
 ## Location
 
-FIXME: Paris or SF?
+San Francisco
 
 ## Responsibilities and desired characteristics
 
