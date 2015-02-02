@@ -26,8 +26,6 @@ We are looking for talented software engineers to join our team and help us take
 * You can communicate with other teams and customers
 * You see a real meaning in the freedom of the Internet and open source
 * Ideally, you are (very) experienced
-[Having a good sense of humour is not good.] (j'adore mais je sais pas où le mettre, j'ai un peu cassé le contexte avec les listes à puces)
-* You have no sense of humor but you are very smart at what you do
 
 ## What's in it for you?
 

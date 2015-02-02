@@ -14,7 +14,7 @@ Now.
 
 ## Who is Gandi?
 
-Gandi is a proud alternative domain registrar and hosting provider. Our signature, No Bullshit™, embodies our strong ethos and our ambition to    be successful by providing a clear and clean service. Managing more than 1.5 million domains, hundreds of thousands of websites, apps and servers, Gandi is an important landmark in the Internet landscape.
+Gandi is a proud alternative domain registrar and hosting provider. Our signature, No Bullshit™, embodies our strong ethos and our ambition to be successful by providing a clear and clean service. Managing more than 1.5 million domains, hundreds of thousands of websites, apps and servers, Gandi is an important landmark in the Internet landscape.
 
 We are looking for talented software engineers to join our team and help us take on the challenges we have set for the future.
 
@@ -23,7 +23,7 @@ Who are we looking for?
 * You are fluent in english, french, python, CSS3 and HTML5
 * You are open-minded, empathic and able to work in a team
 * You like to handle projects from spec to production
-* You are knowledgeable in jQuery, GIT, W3C norms, Selenium, Continous integration, testing and deployment, beer, or other relevant subjects
+* You are knowledgeable in W3C norms, CSS3, HTML5, Javascript (native and jQuery), Python, Jinja2, Git, Selenium, Continous integration, testing and deployment, beer, or other relevant subjects
 * You can communicate with other teams and customers
 * You see a real meaning in the freedom of the Internet and open source
 * Ideally, you are (very) creative and enthousiast about your job
