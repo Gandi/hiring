@@ -6,7 +6,7 @@ San Francisco
 
 ## Responsibilities
 
-Gandi.net is looking for a QA Engineer. Sitting in between our devops and customer care team, you are comfortable with modern development practices such as continuous integration, test driven development, and want to help us improve our current development and integration methods.
+Gandi.net is looking for a QA Engineer. Sitting in between our devops and customer care teams, you are comfortable with modern development practices such as continuous integration, test-driven development, and want to help us improve our current development and integration methods.
 
 ## Desired characteristics
 

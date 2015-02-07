@@ -2,7 +2,7 @@
 
 ## Location
 
-San Francisco (see below for Paris)
+San Francisco, CA (see below for Paris)
 
 ## Responsibilities
 
@@ -32,11 +32,11 @@ If you want to apply, contact us at usjobs@gandi.net.
 
 ## Location
 
-Paris 75013 France (remote position opened to discussion)
+Paris, France 75013 (remote position may be a possibility)
 
 ## Salary
 
-Depends on experience
+Based on experience
 
 ## When
 
@@ -50,7 +50,7 @@ We are looking for talented software engineers to join our team and help us take
 
 ## Who are we looking for?
 
-* You are fluent in english, french
+* You are fluent in English, French
 * You are open-minded, empathic and able to work in a team
 * You like to handle projects from spec to production
 * You are knowledgeable in HTML5, CSS3, Modern JS development, Single page applications, NodeJS, Python (Django, Pyramid), Selenium, Jenkins, Continous integration, GIT, testing and deployment, scaling methods, beer, or other relevant subjects

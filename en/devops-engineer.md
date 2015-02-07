@@ -2,12 +2,12 @@
 
 ## Location
 
-San Francisco
+San Francisco, CA
 
 ## Responsibilities and desired characteristics
 
-You are fluent in Python, also passionate about new languages and technologies, like to design APIs, work on customer use cases and product improvements. You probably also love low-level stuff, kernel hacking or system analysis - or you have another favorite specialty.
-You've mastered, by necessity or curiosity, some combination of puppet (which we use in production), chef, ansible, docker, fig, and friends. 
+You are fluent in Python, passionate about new languages and technologies, like to design APIs, work on customer use cases and product improvements. You probably also love low-level stuff, kernel hacking or system analysis - or you have another favorite specialty.
+You've mastered, by necessity or curiosity, some combination of Puppet (which we use in production), Chef, Ansible, Docker, Fig, and friends. 
 
 ## About Gandi
 
