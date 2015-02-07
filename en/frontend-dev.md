@@ -44,7 +44,7 @@ Now.
 
 ## Who is Gandi?
 
-Gandi is a proud alternative domain registrar and hosting provider. Our signature, No Bullshit™, embodies our strong ethos and our ambition to be successful by providing a clear and clean service. Managing more than 1.5 million domains, hundreds of thousands of websites, apps and servers, Gandi is an important landmark in the Internet landscape.
+Gandi is a proud alternative domain registrar and hosting provider. Our signature, No Bullshit™, embodies our strong ethos and our ambition to be successful by providing a clear and clean service. Managing more than 1.5 million domains, hundreds of thousands of websites, apps and servers, Gandi is an important landmark in the internet landscape.
 
 We are looking for talented software engineers to join our team and help us take on the challenges we have set for the future.
 
@@ -70,3 +70,6 @@ We are looking for talented software engineers to join our team and help us take
 
 Please include your Skype or Hangouts id for the first interview and send your resume in English and/or project portfolio (GitHub, etc.), thank you! 
 
+## Get in touch
+
+To apply, contact us at emploi@gandi.net.
