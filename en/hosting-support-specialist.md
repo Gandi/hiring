@@ -2,7 +2,7 @@
 
 ## Location
 
-San Francisco, CA
+San Francisco, CA or remote
 
 ## About Gandi
 
@@ -34,7 +34,7 @@ While Gandi can train you in the particular aspects of our systems (and we know 
 
 ## Requirements
 
-* Local Bay Area (California) candidates only
+* Fluency in French and English; Written and Spoken
 * Comfortable with the Linux command line
 * Familiarity with common Linux server applications such as Apache2, Nginx, Postfix, MySQL, BIND, etc.
 * Familiar with bash scripting in Linux
@@ -45,9 +45,11 @@ While Gandi can train you in the particular aspects of our systems (and we know 
 ## Preferred Qualifications
 
 * Programming language (any of): Python / NodeJS or Ruby would be a plus
-* Linux System Administration experience
+* Linux system administration experience
 * Network+ or higher certification
 * Familiarity with Linux kernel
-* Fluency in French not required but a +Plus+
 
-If you want to apply, contact us at usjobs@gandi.net. Attach your resume and cover letter, in English. Let us know why you want to work for Gandi.net, the true no-bullshit domain name and hosting company. We want to hear from you!
+## How to apply
+
+Send your resume to usjobs@gandi.net - please write two sentences, exactly the same, one in French and one in English telling us why you'd like to work for Gandi.net. Please put "Web Hosting Technical Support" in the Subject line. Thanks - we look forward to hearing from you!
+
