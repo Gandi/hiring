@@ -1,28 +1,6 @@
 # Jobs at Gandi
 
-## Open positions
-
-We're actively seeking people for the following positions:
-
-#### [Software Engineer](en/backend-dev.md) (backend and API)
-
-#### [Database administrator](en/dba.md)
-
-#### [DevOps Engineer](en/devops-engineer.md)
-
-#### [Web developer](en/frontend-dev.md) (frontend)
-
-#### [Hosting Customer Support Specialist](en/hosting-support-specialist.md)
-
-#### [Network engineer](en/network-engineer.md)
-
-#### [Project manager](en/project-manager.md)
-
-#### [QA Engineer](en/qa-engineer.md)
-
-#### [Software engineer](en/software-engineer.md) (general)
-
-#### [Web integrator](en/web-integrator.md)
+Check https://jobs.gandi.net/
 
 ## Location
 
