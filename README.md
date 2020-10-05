@@ -1,6 +1,6 @@
 # Jobs at Gandi
 
-Check https://jobs.gandi.net/
+Check https://www.welcometothejungle.com/en/companies/gandi/jobs
 
 ## Location
 
